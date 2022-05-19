@@ -224,6 +224,7 @@ video {
     font-size: 100%;
     font-style: inherit;
     font-weight: inherit;
+    
 }
 
 article,
@@ -258,6 +259,7 @@ html {
 body {
     background: #fff;
     line-height: 1;
+    
 }
 
 article,
@@ -341,6 +343,7 @@ body {
     text-rendering: optimizeLegibility;
     overflow-x: hidden;
     overflow-y: auto;
+    
 }
 
 img {
