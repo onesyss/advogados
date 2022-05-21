@@ -5542,15 +5542,16 @@ ELEMENTS STYLE
 }
 
 .finax-accordions .accordion-item .accordion-heading > .inner:before {
-    content: url("../assets/img/baixo.png");
+    content: url("../assets/img/icons/adm.png");
     /* background-image: url("../assets/img/subir.svg"); */
     font-family: "Finax Icons";
     color: #bbb;
     position: absolute;
     right: 0;
-    top: 0;
+    top: -3px;
     transition: all ease 0.3s;
 }
+
 
 .finax-accordions .accordion-item .accordion-heading > .inner:hover:before {
     color: #333;

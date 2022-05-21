@@ -5538,7 +5538,7 @@ ELEMENTS STYLE
 }
 
 .finax-accordions .accordion-item .accordion-heading > .inner:before {
-    content: "\e977";
+    content: "";
     font-family: "Finax Icons";
     color: #bbb;
     position: absolute;
